@@ -1,0 +1,125 @@
+Search_Query,Recipe_id,title,usedIngredientCount,missedIngredientCount,ingredients_id,ingredients_name,aisle,MissedorUsed,amount,unit
+apple,633547,Baked Cinnamon Apple Slices,1,2,2010,cinnamon,Spices and Seasonings,Missed,1.5,tablespoons
+apple,633547,Baked Cinnamon Apple Slices,1,2,9299,raisins,Dried Fruits;Produce;Baking,Missed,0.5,cup
+apple,633547,Baked Cinnamon Apple Slices,1,2,9003,apples,Produce,Used,4.0,
+apple,662665,Swiss Bircher Muesli,1,3,1077,milk,"Milk, Eggs, Other Dairy",Missed,0.5,cup
+apple,662665,Swiss Bircher Muesli,1,3,42184,muesli,Cereal,Missed,0.5,cup
+apple,662665,Swiss Bircher Muesli,1,3,43261,skim vanilla yoghurt,"Milk, Eggs, Other Dairy",Missed,3.0,tablespoons
+apple,662665,Swiss Bircher Muesli,1,3,9003,apple,Produce,Used,1.0,
+mango,653145,No Churn Mango Ice Cream,1,3,1011053,double cream,"Milk, Eggs, Other Dairy",Missed,500.0,ml
+mango,653145,No Churn Mango Ice Cream,1,3,9436,mango nectar,Beverages,Missed,0.75,cup
+mango,653145,No Churn Mango Ice Cream,1,3,9160,lime juice,Produce,Missed,1.0,tablespoon
+mango,653145,No Churn Mango Ice Cream,1,3,9176,mango,Produce,Used,410.0,g
+mango,663858,Tropical Ice Pops,1,4,99001,coconut milk beverage,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,99009,light coconut milk,Canned and Jarred,Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,19911,maple syrup,Cereal,Missed,3.5,Tbs
+mango,663858,Tropical Ice Pops,1,4,9266,pineapple,Produce,Missed,0.75,cup
+mango,663858,Tropical Ice Pops,1,4,9176,mango,Produce,Used,1.0,cup
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,19296,honey,"Nut butters, Jams, and Honey",Missed,1.0,tablespoon
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9302,raspberries,Produce,Missed,1.0,cup
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9150,lemons,Produce,Used,2.0,
+lemon,649643,Lemon Glaze For Cakes,1,2,1019016,juice,Beverages,Missed,1.0,serving
+lemon,649643,Lemon Glaze For Cakes,1,2,9156,lemon peel,Produce,Missed,1.0,teaspoon
+lemon,649643,Lemon Glaze For Cakes,1,2,9150,lemon,Produce,Used,2.0,tablespoons
+peach,655098,Peach Coconut Ice Cream,1,2,12118,full-fat coconut milk,"Canned and Jarred;Milk, Eggs, Other Dairy",Missed,27.2,ounces
+peach,655098,Peach Coconut Ice Cream,1,2,1049,half & half,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+peach,655098,Peach Coconut Ice Cream,1,2,9236,peaches,Produce,Used,6.0,large
+peach,649381,Lazy Cobbler,1,3,1001,butter,"Milk, Eggs, Other Dairy",Missed,8.0,servings
+peach,649381,Lazy Cobbler,1,3,2010,cinnamon,Spices and Seasonings,Missed,0.5,teaspoon
+peach,649381,Lazy Cobbler,1,3,18137,white cake mix,Baking,Missed,1.0,
+peach,649381,Lazy Cobbler,1,3,9236,peaches,Produce,Used,1.0,large can
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,6150,barbecue sauce,Condiments,Missed,12.0,oz
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,5062,chicken breasts,Meat,Missed,1.0,lbs
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,18350,hamburger buns,Bakery/Bread,Used,4.0,
+bread,658140,Reeses Peanut Butter Chocolate Chip Cookies,1,2,10019146,chocolate chips,Baking,Missed,1.0,large
+bread,658140,Reeses Peanut Butter Chocolate Chip Cookies,1,2,19150,reese cups,Sweet Snacks,Missed,1.0,bag
+bread,658140,Reeses Peanut Butter Chocolate Chip Cookies,1,2,18439,english muffin,Bakery/Bread,Used,4.0,servings
+pea,660701,Southern Hoppin John,1,4,10123,bacon,Meat,Missed,4.0,ounces
+pea,660701,Southern Hoppin John,1,4,11282,onion,Produce,Missed,1.0,large
+pea,660701,Southern Hoppin John,1,4,2036,rosemary,Produce;Spices and Seasonings,Missed,4.0,teaspoons
+pea,660701,Southern Hoppin John,1,4,10220444,long grain rice,Pasta and Rice,Missed,1.5,cups
+pea,660701,Southern Hoppin John,1,4,10016063,canned black eyed peas,Canned and Jarred,Used,1.0,cup
+pea,632003,African Bean Soup,1,4,11124,carrots,Produce,Missed,2.0,cups
+pea,632003,African Bean Soup,1,4,11333,green bell pepper,Produce,Missed,1.0,cup
+pea,632003,African Bean Soup,1,4,11282,onion,Produce,Missed,0.5,cup
+pea,632003,African Bean Soup,1,4,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,2.0,tablespoons
+pea,632003,African Bean Soup,1,4,16063,black eyed peas,Pasta and Rice;Canned and Jarred,Used,2.0,cups
+pineapple,982365,Instant Pot Hawaiian Chicken,1,2,6150,barbecue sauce,Condiments,Missed,16.0,oz
+pineapple,982365,Instant Pot Hawaiian Chicken,1,2,5062,chicken breasts,Meat,Missed,3.0,
+pineapple,982365,Instant Pot Hawaiian Chicken,1,2,1039354,pineapple tidbits,Canned and Jarred,Used,20.0,oz
+pineapple,642066,Easy Pineapple Dessert,1,3,18942,graham cracker crust,Baking,Missed,1.0,
+pineapple,642066,Easy Pineapple Dessert,1,3,19206,instant vanilla pudding,Baking,Missed,1.0,large
+pineapple,642066,Easy Pineapple Dessert,1,3,1056,sour cream,"Milk, Eggs, Other Dairy",Missed,1.0,large
+pineapple,642066,Easy Pineapple Dessert,1,3,9354,canned pineapple,Canned and Jarred,Used,1.0,large can
+Blueberry,647333,Honeydew Fruit Salad,1,2,9184,honeydew melon,Produce,Missed,1.0,
+Blueberry,647333,Honeydew Fruit Salad,1,2,9326,watermelon,Produce,Missed,6.0,slices
+Blueberry,647333,Honeydew Fruit Salad,1,2,9050,blueberries,Produce,Used,0.25,cup
+Blueberry,1098299,Berry Frozen Yogurt Popsicles,1,2,19293,frozen vanilla yogurt,Frozen,Missed,2.0,cups
+Blueberry,1098299,Berry Frozen Yogurt Popsicles,1,2,9302,raspberries,Produce,Missed,6.0,oz
+Blueberry,1098299,Berry Frozen Yogurt Popsicles,1,2,9050,blueberries,Produce,Used,6.0,oz
+Pomegranate,665653,Zesty Spinach Salad,1,5,9129,black grapes,Produce,Missed,30.0,
+Pomegranate,665653,Zesty Spinach Salad,1,5,9160,juice of lime,Produce,Missed,0.5,
+Pomegranate,665653,Zesty Spinach Salad,1,5,9266,pineapple,Produce,Missed,1.0,cup
+Pomegranate,665653,Zesty Spinach Salad,1,5,10011457,spinach,Produce,Missed,2.0,cups
+Pomegranate,665653,Zesty Spinach Salad,1,5,11291,spring onion,Produce,Missed,1.0,
+Pomegranate,665653,Zesty Spinach Salad,1,5,1009286,pomegranate,Produce,Used,1.0,large
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,10020005,farro,Pasta and Rice;Ethnic Foods;Health Foods,Missed,8.0,ounces
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,1033,parmesan,Cheese,Missed,4.0,servings
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,11952,radicchio,Produce,Missed,1.0,small head
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,98916,truffle mushroom,Produce;Gourmet,Missed,1.0,
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,2053,vinegar,"Oil, Vinegar, Salad Dressing",Missed,30.0,ml
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,12155,walnuts,Nuts;Baking,Missed,4.0,ounces
+Pomegranate,642556,"Fall Farro Salad with Pomegranate, Walnut & Truffles",1,6,1009286,pomegranate,Produce,Used,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+Olive,1095689,Garlic Oregano Olive Tapenade,1,4,2027,oregano leaves,Produce;Spices and Seasonings,Missed,1.0,Tablespoon
+Olive,1095689,Garlic Oregano Olive Tapenade,1,4,11215,garlic,Produce,Missed,2.0,cloves
+Olive,1095689,Garlic Oregano Olive Tapenade,1,4,11477,zucchini,Produce,Missed,1.0,
+Olive,1095689,Garlic Oregano Olive Tapenade,1,4,15088,canned sardines,Seafood,Missed,2.0,cans
+Olive,1095689,Garlic Oregano Olive Tapenade,1,4,9195,olives,Canned and Jarred,Used,1.0,cup
+Olive,638601,Chilled melon summer soup,1,4,98936,musk melon,Produce,Missed,3.0,cups
+Olive,638601,Chilled melon summer soup,1,4,9160,lime juice,Produce,Missed,6.0,tsp
+Olive,638601,Chilled melon summer soup,1,4,10211821,bell pepper,Produce,Missed,1.0,serving
+Olive,638601,Chilled melon summer soup,1,4,2064,mint leaves,Produce;Spices and Seasonings,Missed,1.0,leaves
+Olive,638601,Chilled melon summer soup,1,4,1019195,greek olives,Canned and Jarred,Used,6.0,tsp
+Raspberries,1098299,Berry Frozen Yogurt Popsicles,1,2,19293,frozen vanilla yogurt,Frozen,Missed,2.0,cups
+Raspberries,1098299,Berry Frozen Yogurt Popsicles,1,2,9050,blueberries,Produce,Missed,6.0,oz
+Raspberries,1098299,Berry Frozen Yogurt Popsicles,1,2,9302,raspberries,Produce,Used,6.0,oz
+Raspberries,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,19296,honey,"Nut butters, Jams, and Honey",Missed,1.0,tablespoon
+Raspberries,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9150,lemons,Produce,Missed,2.0,
+Raspberries,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9302,raspberries,Produce,Used,1.0,cup
+Dates,632105,Almond Cacao Nut Balls,1,2,12061,almonds,Nuts,Missed,75.0,g
+Dates,632105,Almond Cacao Nut Balls,1,2,19165,cacao powder,Baking,Missed,2.0,tbsp
+Dates,632105,Almond Cacao Nut Balls,1,2,9087,dates,Dried Fruits;Produce,Used,90.0,g
+Dates,149199,"Easy, All-Natural Protein Bars",1,3,12061,almonds,Nuts,Missed,1.0,cup
+Dates,149199,"Easy, All-Natural Protein Bars",1,3,9094,dried figs,Dried Fruits;Produce,Missed,0.6666667,cup
+Dates,149199,"Easy, All-Natural Protein Bars",1,3,93601,hemp protein powder,Health Foods,Missed,3.0,tablespoons
+Dates,149199,"Easy, All-Natural Protein Bars",1,3,9087,dates,Dried Fruits;Produce,Used,0.6666667,cup
+Coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,2050,vanilla extract,Baking,Missed,2.0,teaspoons
+Coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,1095,sweetened condensed milk,Baking,Missed,14.0,oz
+Coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,12109,sweetened coconut,Baking,Used,5.5,cups
+Coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,1015062,chicken tenders,Meat,Missed,1.0,pound
+Coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,1124,egg whites,"Milk, Eggs, Other Dairy",Missed,2.0,
+Coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,99025,whole wheat bread crumbs,Pasta and Rice,Missed,0.5,cup
+Coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,12108,unsweetened coconut,Baking,Used,0.5,cup
+Plum,665620,Zabaglione with Roasted Plums,1,1,1125,egg yolks,"Milk, Eggs, Other Dairy",Missed,4.0,large
+Plum,665620,Zabaglione with Roasted Plums,1,1,9279,plums,Produce,Used,12.0,
+Plum,645802,Grilled Plums With Honey Balsamic Glaze,1,4,19296,honey,"Nut butters, Jams, and Honey",Missed,0.5,cup
+Plum,645802,Grilled Plums With Honey Balsamic Glaze,1,4,2010,cinnamon,Spices and Seasonings,Missed,0.5,tsp
+Plum,645802,Grilled Plums With Honey Balsamic Glaze,1,4,2021,ginger powder,Spices and Seasonings,Missed,0.5,tsp
+Plum,645802,Grilled Plums With Honey Balsamic Glaze,1,4,2069,balsamic vinegar,"Oil, Vinegar, Salad Dressing",Missed,3.0,Tbsps
+Plum,645802,Grilled Plums With Honey Balsamic Glaze,1,4,9279,plums,Produce,Used,8.0,
+Strawberry,715574,Homemade Strawberry Shake,1,2,19095,vanilla ice cream,Frozen,Missed,2.5,cups
+Strawberry,715574,Homemade Strawberry Shake,1,2,1077,whole milk,"Milk, Eggs, Other Dairy",Missed,2.0,cups
+Strawberry,715574,Homemade Strawberry Shake,1,2,9316,strawberries,Produce,Used,10.0,large
+Strawberry,665823,Melt Your Heart,1,2,1001116,plain yogurt,"Milk, Eggs, Other Dairy",Missed,200.0,milliliters
+Strawberry,665823,Melt Your Heart,1,2,9050,blueberries,Produce,Missed,1.0,Handful
+Strawberry,665823,Melt Your Heart,1,2,9316,strawberries,Produce,Used,10.0,

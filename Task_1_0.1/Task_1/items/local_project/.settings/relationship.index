@@ -1,0 +1,68 @@
+[ {
+  "baseItem" : {
+    "id" : "_H9Hi8CqBEe2aHtscGeT5VA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LOCAL_PROJECT:_HnSAYCqCEe2aHtscGeT5VA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HnSAYCqCEe2aHtscGeT5VA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LOCAL_PROJECT:__d0V8DKEEe2X7IrAZRe2GA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JpsqcCgZEe2sAeYkcfVhgQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__d0V8DKEEe2X7IrAZRe2GA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_JpsqcCgZEe2sAeYkcfVhgQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_JpsqcCgZEe2sAeYkcfVhgQ - api_key",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_i2sT0CgYEe2sAeYkcfVhgQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LOCAL_PROJECT:_H9Hi8CqBEe2aHtscGeT5VA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JpsqcCgZEe2sAeYkcfVhgQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yaScICjqEe2khugaMbzStw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_JpsqcCgZEe2sAeYkcfVhgQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
